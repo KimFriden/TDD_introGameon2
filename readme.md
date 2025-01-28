@@ -1,1 +1,1 @@
-### Todo Tirsdag.
+Done Tirsdag (1/28)

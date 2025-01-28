@@ -1,7 +1,7 @@
 import Test from "./test.mjs";
 import sum from "../sum.mjs";
 
-const test = Test("Sum tester");
+const test = Test("Sum tester3");
 test.padd(2);
 /*
 try {

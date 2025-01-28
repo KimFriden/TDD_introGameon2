@@ -6,8 +6,6 @@ function Test(description) {
 
     console.log(description)
 
-    console.time("Test");
-
     return {
         isEqual,
         padd: (n = 1) => { padding += n; },
